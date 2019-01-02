@@ -1,2 +1,2 @@
-# jquery-validator
+# jquery-form-validator
 
